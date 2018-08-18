@@ -1,5 +1,12 @@
 == README
 
+1) after generate a new rails project, go into Gemfile, replace 'byebug' with 'pry'
+
+2) follow https://www.codecademy.com/articles/deploy-rails-to-heroku to set up Gemfile 
+
+
+====================================
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
